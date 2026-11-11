@@ -1,6 +1,6 @@
 # King Yew Choo
 
-Payment systems, AI agents and financial regulation: the authority behind a charge, the spending limit it runs under, and what happens when a paid call's result is lost.
+King Yew Choo’s work on payments, AI agents and financial regulation has been published by the House of Lords, Federal Reserve and Financial Stability Board. He has authored payments use cases for the United Nations’ ITU focus group on trust and identity for agentic AI. He serves on the British Standards Institution’s financial services committee. Before founding True Primary, which builds payment infrastructure for agentic commerce, he traded emerging-market credit at Citigroup.
 
 - **Individual Internet-Draft, IETF, revision 01, 8 October 2026:** [Payment and permission checks for agent-initiated work](https://kingyewchoo.co.uk/research/agent-payment-gating/)
 - **Working papers on SSRN, not peer reviewed:** [A payment and entitlement gate for AI agents purchasing expert services](https://kingyewchoo.co.uk/research/payment-and-entitlement-gate/), version 2.9, September 2026 · [A transaction architecture for AI agents purchasing expert services](https://kingyewchoo.co.uk/research/agentic-expert-access-architecture/), June 2026
